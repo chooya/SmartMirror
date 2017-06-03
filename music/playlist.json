@@ -1,0 +1,36 @@
+{
+  "songs" : [
+        {
+          "title":"김동률 - 출발",
+          "url" : "http://chooya01.iptime.org:7777/play/01"
+        },
+        {
+          "title":"김동률 - 그건 말야",
+          "url" : "http://chooya01.iptime.org:7777/play/02"
+        },
+        {
+          "title":"김광석 - 잊혀지는 것",
+          "url" : "http://chooya01.iptime.org:7777/play/04"
+        },
+        {
+          "title":"더원 - 사랑아",
+          "url" : "http://chooya01.iptime.org:7777/play/07"
+        },
+        {
+          "title":"아이유 - 금요일에 만나요",
+          "url" : "http://chooya01.iptime.org:7777/play/036"
+        },
+        {
+          "title":"AOA - 짧은 치마",
+          "url" : "http://chooya01.iptime.org:7777/play/040"
+        },
+        {
+          "title":"여자친구 - 너 그리고 나 (NAVILLERA)",
+          "url" : "http://chooya01.iptime.org:7777/play/03-girl"
+        },
+        {
+          "title":"여자친구 - 시간을 달려서 (Rough)",
+          "url" : "http://chooya01.iptime.org:7777/play/02-girl"
+        }
+  ]
+}

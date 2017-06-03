@@ -1,0 +1,17 @@
+{
+  "name": "source",
+  "version": "1.0.0",
+  "description": "my first mirror source",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.15.2",
+    "moment": "^2.18.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node server.js",
+    "start": "electron main.js"
+  },
+  "author": "Park seok ho",
+  "license": "ISC"
+}
